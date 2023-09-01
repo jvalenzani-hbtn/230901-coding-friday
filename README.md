@@ -47,11 +47,11 @@ Example Output:
   "high_score": 90,
   "low_score": 75,
   "total_students": 3,
-  "avg_score": 80,
+  "avg_score": 81.6,
   "students": [
-    ["Peter Smith", 75],
+    ["Jane Doe", 90],
     ["John Doe", 80],
-    ["Jane Doe", 90]
+    ["Peter Smith", 75]
   ]
 }
 ```
